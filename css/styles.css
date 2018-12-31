@@ -1,0 +1,21 @@
+.albums {
+  width: 300px;
+  float: left;
+}
+
+body {
+  background-color: gray;
+}
+
+.title {
+  text-align: center;
+}
+
+.smaller {
+  font-size: 80%;
+}
+
+.tour {
+  background-color: white;
+  width: 200px;
+}
